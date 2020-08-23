@@ -4,7 +4,8 @@ import java.util.*;
 
 public class Tictactoe<scanner> {
     /*This is my implementation of TICTACTOE game Using AI algorithms
-    you can either draw with it or lose...... Lols
+    you can either draw with it or lose...... Lols 
+    well, You can actually beat it if you are an expert ....lols
      */
     private  Character[][] Board;
     private final char player_1;
